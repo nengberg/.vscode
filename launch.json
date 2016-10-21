@@ -27,8 +27,8 @@
 			"program": "${workspaceRoot}/node_modules/mocha/bin/_mocha",
 			"stopOnEntry": false,
 			"args": [
-            	"${workspaceRoot}/test/**/*.js"           
-         	],
+            			"${workspaceRoot}/test/**/*.js"           
+         		],
 			"cwd": "${workspaceRoot}",
 			"runtimeExecutable": null,
 			"runtimeArgs": [
