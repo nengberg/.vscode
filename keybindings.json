@@ -1,0 +1,5 @@
+[
+     { "key": "shift+cmd+t", "command": "workbench.action.tasks.test" },
+     { "key": "cmd+r", "command": "editor.action.changeAll" },
+     { "key": "cmd+2", "command": "workbench.action.splitEditor"}
+]

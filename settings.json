@@ -1,7 +1,8 @@
 {
-    "eslint.enable": false,
+    "eslint.enable": true,
+	"jshint.enable": false,
     "editor.insertSpaces": false,
-    "editor.lineNumbers": true,
+    "editor.lineNumbers": "on",
 	"search.exclude": {
 		"**/node_modules": true
 	}
